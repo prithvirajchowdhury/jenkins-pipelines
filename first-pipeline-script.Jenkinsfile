@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Stage 1') {
             steps {
-                echo 'My First Pipeline Script.'
+                echo 'My First Pipeline Script'
             }
         }
     }
